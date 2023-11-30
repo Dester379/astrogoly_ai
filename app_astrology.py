@@ -10,7 +10,6 @@ assistant_id = 'asst_NpNdh3P1NS7FraHqPDlh54NN'
 client = openai
 
 # Set up the Streamlit page with a title and icon
-st.set_page_config(page_title="ChatGPT-like Chat App", page_icon=":speech_balloon:")
 st.title("Star Compatibility Chat ⭐️🔮👫")
 
 st.sidebar.header("Configuration")
