@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+uuid
+time
+
